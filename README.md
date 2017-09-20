@@ -20,6 +20,6 @@
 
 <b>Hard Difficulty</b>
 
-    Write timesTables and oddTimesTables as efficiently as possible.
+ Write timesTables and oddTimesTables as efficiently as possible.
 
 - Don’t forget to explain your submission just as you would do in a job interview setting!
