@@ -2,7 +2,7 @@
 
 <b>Intermediate difficulty</b>
 
-    Write a function, oddTimesTables, that will print only the odd numbers from the multiplication tables up to 12x12.
+ Write a function, oddTimesTables, that will print only the odd numbers from the multiplication tables up to 12x12.
 
     Function Name: oddTimesTables
     Output:
@@ -16,6 +16,7 @@
 - You must explain your submission to be able to win!
 - You can reason which numbers will be odd based on the patterns in multiplication tables, but whatever method you choose, you should also write a test that makes sure that the numbers to be printed are indeed odd.
 
+#
 
 <b>Hard Difficulty</b>
 
